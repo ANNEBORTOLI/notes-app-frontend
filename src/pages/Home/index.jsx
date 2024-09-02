@@ -39,7 +39,7 @@ export function Home() {
               title: "React",
               tags: [
                 { id: "1", name: "react" },
-                { id: "2", name: "rocketseat" }
+                { id: "2", name: "nodejs" }
               ]
             }}
           />
