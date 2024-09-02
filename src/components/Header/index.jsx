@@ -9,7 +9,7 @@ export function Header() {
 
         <div>
           <span>Bem-vindo</span>
-          <strong>Anne Bortolo</strong>
+          <strong>Anne Bortoli</strong>
         </div>
       </Profile>
 

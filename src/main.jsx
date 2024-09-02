@@ -9,13 +9,14 @@ import theme from "./styles/theme";
 // import { Home } from "./pages/Home";
 // import { SignIn } from "./pages/SignUp";
 // import { SignUp } from "./pages/SignUp";
-import { Profile } from "./pages/Profile";
+// import { Profile } from "./pages/Profile";
+import { New } from "./pages/New";
 
 createRoot(document.getElementById("root")).render(
   <StrictMode>
     <ThemeProvider theme={theme}>
       <GlobalStyles />
-      <Profile />
+      <New />
     </ThemeProvider>
   </StrictMode>
 );
